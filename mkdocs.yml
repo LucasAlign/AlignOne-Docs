@@ -1,10 +1,10 @@
-site_name: KeyFam Help
-site_description: How to use KeyFam — guides for volunteers, advocates, and program staff.
+site_name: AlignOne Help
+site_description: How to use AlignOne — guides for volunteers, advocates, and program staff.
 site_url: https://austinlucas.github.io/AlignOne-Docs/
 repo_url: https://github.com/AustinLucas/AlignOne-Docs
 repo_name: AustinLucas/AlignOne-Docs
 edit_uri: edit/main/docs/
-copyright: KeyFam — WrapAround care coordination
+copyright: AlignOne — WrapAround care coordination
 
 theme:
   name: material

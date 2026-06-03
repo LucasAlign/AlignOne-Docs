@@ -1,7 +1,7 @@
-# Contributing to KeyFam Help
+# Contributing to AlignOne Help
 
 This help site is written by **two AI agents working in different repos** — the
-**backend agent** (KeyFam API / `Align-Core`) and the **frontend agent** (the KeyFam app) —
+**backend agent** (AlignOne API / `Align-Core`) and the **frontend agent** (the AlignOne app) —
 plus human reviewers. This file is the contract that keeps their work consistent.
 
 > New here? Read this once, then see the [how-to template](templates/how-to-template.md)

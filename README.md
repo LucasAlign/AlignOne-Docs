@@ -1,9 +1,9 @@
-# AlignOne-Docs — KeyFam user documentation
+# AlignOne-Docs — AlignOne user documentation
 
-End-user help for the KeyFam app, written in Markdown and published as a searchable
+End-user help for the AlignOne app, written in Markdown and published as a searchable
 website via [MkDocs](https://www.mkdocs.org/) + [Material](https://squidfunk.github.io/mkdocs-material/).
 
-- **Audience:** volunteers, advocates, and program staff who *use* KeyFam (not developers).
+- **Audience:** volunteers, advocates, and program staff who *use* AlignOne (not developers).
 - **Source of truth:** the Markdown in `docs/`. The same content can later be surfaced
   in-app contextually.
 - **How the two agents work together:** see [`CONTRIBUTING.md`](CONTRIBUTING.md).

@@ -5,7 +5,7 @@ primary: backend
 
 # Glossary
 
-The shared vocabulary for KeyFam Help. **Backend** owns the *What it means* column;
+The shared vocabulary for AlignOne Help. **Backend** owns the *What it means* column;
 **frontend** owns the *In-app label* column — fill each with the exact wording the app
 shows. Use these spellings everywhere so docs and the UI never drift. The coordination
 rules live in `CONTRIBUTING.md` at the repo root.
@@ -14,7 +14,7 @@ rules live in `CONTRIBUTING.md` at the repo root.
 
 | Term | What it means | In-app label |
 |---|---|---|
-| **Family** | The foster/adoptive family being served. In KeyFam the family *is* the WrapAround care circle. | _TBD_ |
+| **Family** | The foster/adoptive family being served. In AlignOne the family *is* the WrapAround care circle. | _TBD_ |
 | **Care circle / WrapAround** | The family plus everyone supporting them — the advocate and volunteers. | _TBD_ |
 | **Parent** | An adult in the family. | _TBD_ |
 | **Child** | A child in the family. | _TBD_ |
@@ -33,7 +33,7 @@ rules live in `CONTRIBUTING.md` at the repo root.
 | **Comment** | A reply on a post. | _TBD_ |
 | **Training module** | A unit of assigned training. | _TBD_ |
 | **Training resource** | Supporting material for a training module. | _TBD_ |
-| **Onboarding / invite** | The flow that brings a new person into KeyFam by email invite. | _TBD_ |
+| **Onboarding / invite** | The flow that brings a new person into AlignOne by email invite. | _TBD_ |
 | **Status** | A lifecycle state (for example community status or volunteer status). | _TBD_ |
 | **Serving church** | The church coordinating care for a family — distinct from the family's *attending* church. | _TBD_ |
 | **County** | The county a family or volunteer is associated with. | _TBD_ |

@@ -1,6 +1,6 @@
-# KeyFam User Documentation — Guiding Plan
+# AlignOne User Documentation — Guiding Plan
 
-> **Status:** Draft for review · **Owner:** _TBD_ · **Audience of these docs:** End-users of the KeyFam app (not developers).
+> **Status:** Draft for review · **Owner:** _TBD_ · **Audience of these docs:** End-users of the AlignOne app (not developers).
 >
 > This is the planning/scaffolding document. It defines *what* we're building, *for whom*, *where it lives*, and *in what order*. It is not itself user-facing content.
 
@@ -8,7 +8,7 @@
 
 ## 1. Goals & Success Criteria
 
-**Why we're writing user docs:** Today, every piece of KeyFam documentation is developer-facing (`README.md`, `keyfam-api-reference.md`, `docs/architecture.md`, the schema dump). There is nothing that helps an actual **volunteer**, **advocate**, or **program staff member** learn to use the product. That gap creates onboarding friction and support load.
+**Why we're writing user docs:** Today, every piece of AlignOne documentation is developer-facing (`README.md`, `keyfam-api-reference.md`, `docs/architecture.md`, the schema dump). There is nothing that helps an actual **volunteer**, **advocate**, or **program staff member** learn to use the product. That gap creates onboarding friction and support load.
 
 **What "done well" looks like:**
 
@@ -23,7 +23,7 @@
 
 ## 2. Audiences (in priority order)
 
-KeyFam's roles are already defined by the Cognito auth model — that's our top-level structure. We will **not** write one undifferentiated manual; each role sees a different slice of the app.
+AlignOne's roles are already defined by the Cognito auth model — that's our top-level structure. We will **not** write one undifferentiated manual; each role sees a different slice of the app.
 
 1. **Volunteers** _(write first)_ — largest population, least technical, **narrowest** scope (one family). Smallest surface = fastest path to a *complete* set of guides that delivers the most value. This is the v1 target.
 2. **Admins / program staff** _(write second)_ — power users, fewer in number, full access. They can lean on support short-term, but they need the management workflows documented (onboarding families, inviting people, oversight).
@@ -55,7 +55,7 @@ KeyFam's roles are already defined by the Cognito auth model — that's our top-
 
 We'll follow **[Diátaxis](https://diataxis.fr)** — the proven four-mode model — adapted to a help center:
 
-- **Get Started** — one short, guided walkthrough per role ("your first day on KeyFam").
+- **Get Started** — one short, guided walkthrough per role ("your first day on AlignOne").
 - **How-To Guides** — task-oriented, the *bulk* of the docs. One page = one job ("Claim a need").
 - **Concepts** — understanding-oriented ("What is a WrapAround care circle?", "Roles & who sees what").
 - **Reference / FAQ** — lookup: glossary, permissions matrix, statuses, troubleshooting.
@@ -69,7 +69,7 @@ People search for **tasks**, not features — so How-To guides carry the weight.
 Derived directly from the live feature surface in `keyfam-api-reference.md`. This is the table of contents to fill in.
 
 ```
-Home / Welcome to KeyFam
+Home / Welcome to AlignOne
 │
 ├── Get Started
 │   ├── For Volunteers   ← v1
