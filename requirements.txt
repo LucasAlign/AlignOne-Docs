@@ -1,0 +1,3 @@
+# Build dependencies for the KeyFam Help site.
+# Pin the major version so CI builds stay reproducible.
+mkdocs-material>=9.5,<10

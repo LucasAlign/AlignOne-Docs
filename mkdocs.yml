@@ -1,0 +1,99 @@
+site_name: KeyFam Help
+site_description: How to use KeyFam — guides for volunteers, advocates, and program staff.
+site_url: https://austinlucas.github.io/AlignOne-Docs/
+repo_url: https://github.com/AustinLucas/AlignOne-Docs
+repo_name: AustinLucas/AlignOne-Docs
+edit_uri: edit/main/docs/
+copyright: KeyFam — WrapAround care coordination
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Home: index.md
+  - Get Started:
+      - For Volunteers: get-started/volunteers.md
+      - For Program Staff: get-started/staff.md
+      - For Advocates: get-started/advocates.md
+  - Concepts:
+      - What is WrapAround?: concepts/what-is-wraparound.md
+      - Roles & who sees what: concepts/roles-and-visibility.md
+      - Key terms: concepts/key-terms.md
+  - How-To Guides:
+      - Account & Profile:
+          - Accept your invite & sign in: how-to/account/accept-invite.md
+          - Update your profile: how-to/account/update-profile.md
+          - Upload your photo: how-to/account/upload-photo.md
+      - Your Family:
+          - View your family: how-to/family/view-your-family.md
+      - Needs:
+          - Browse open needs: how-to/needs/browse-needs.md
+          - Claim a need: how-to/needs/claim-a-need.md
+          - Withdraw a claim: how-to/needs/withdraw-a-claim.md
+          - Mark a need complete: how-to/needs/mark-complete.md
+      - Schedules:
+          - View the calendar: how-to/schedules/view-calendar.md
+          - Sign up for a slot: how-to/schedules/sign-up-slot.md
+          - Recurring events: how-to/schedules/recurring-events.md
+      - Messaging:
+          - Start a thread: how-to/messaging/start-thread.md
+          - Replies & read receipts: how-to/messaging/reply-read-receipts.md
+          - Notifications: how-to/messaging/notifications.md
+      - Posts:
+          - Read & comment on posts: how-to/posts/read-and-comment.md
+      - Training:
+          - Find your modules & track progress: how-to/training/modules-and-progress.md
+          - Access training resources: how-to/training/resources.md
+      - Admin & Staff:
+          - Manage families & people: how-to/admin/families-and-people.md
+          - Manage volunteers & advocates: how-to/admin/volunteers-and-advocates.md
+          - Manage churches & counties: how-to/admin/organizations.md
+          - Onboard a family & invite people: how-to/admin/onboarding.md
+          - Oversight: how-to/admin/oversight.md
+  - Reference:
+      - Glossary: reference/glossary.md
+      - Roles & permissions matrix: reference/permissions-matrix.md
+      - Statuses explained: reference/statuses.md
+      - FAQ: reference/faq.md
+      - Troubleshooting: reference/troubleshooting.md
