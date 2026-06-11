@@ -19,8 +19,11 @@ rules live in `CONTRIBUTING.md` at the repo root.
 | **Parent** | An adult in the family. | _TBD_ |
 | **Child** | A child in the family. | _TBD_ |
 | **Primary contact** | The parent who is the family's main point of contact. | _TBD_ |
+| **Program staff (Admin)** | Non-profit staff with full access to every family. | _TBD_ |
+| **Coordinator** | Staff with the same full access as an Admin, focused on their county. | _TBD_ |
 | **Advocate** | The case lead for a family, scoped to their serving church. | _TBD_ |
 | **Volunteer** | A family supporter, scoped to exactly one family. | _TBD_ |
+| **Lead Volunteer** | A volunteer with extra abilities (e.g. creating needs) within their one family. | _TBD_ |
 | **Volunteer role** | The kind of help a volunteer provides. | _TBD_ |
 | **Need** | A specific task a family has asked for help with. | _TBD_ |
 | **Claim** | A volunteer signing up to handle a need. | _TBD_ |
