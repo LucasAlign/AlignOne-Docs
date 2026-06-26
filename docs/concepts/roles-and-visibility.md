@@ -28,7 +28,9 @@ request — it isn't just hidden in the interface.
   church* is theirs. An advocate isn't tied to a single family.
 - **Volunteers** are scoped to the **one family** they're assigned to. A volunteer cannot
   see another family's needs, schedule, messages, or posts.
-- **Families** (self-registered parents) are scoped to **their own family record** only.
+- **Families** (self-registered parents) get a **read-only** view of **their own family's
+  circle** — they can see their family, its needs, and its schedule, but care tasks are
+  created and claimed by volunteers, advocates, and staff.
 
 > **Lead Volunteer.** A volunteer can be marked as the **Lead Volunteer** for their family.
 > Leads get extra abilities *within that one family* — such as creating or removing needs —

@@ -13,11 +13,13 @@ only.
 
 ## What you can do
 
-- See your family's circle and the people supporting you.
-- Keep your family's information up to date.
-- Stay in touch through [messages](../how-to/messaging/start-thread.md) and
-  [posts](../how-to/posts/read-and-comment.md).
+AlignOne gives you a window into your own care circle:
+
+- See your family's circle — your advocate and the volunteers helping you.
+- See the **needs** raised for your family and who's helping with each.
+- See your family's **schedule**.
+
+Creating needs, claiming tasks, and managing the schedule are handled by your advocate,
+program staff, and volunteers — so you can stay focused on your family.
 
 New here? Start with [What is WrapAround?](../concepts/what-is-wraparound.md).
-
-<!-- @backend: confirm exactly which actions a self-registered Family caller can take (create needs? sign up on schedules?) against the handlers, then make this list precise. -->
