@@ -93,6 +93,7 @@ nav:
           - Manage churches & counties: how-to/admin/organizations.md
           - Onboard a family & invite people: how-to/admin/onboarding.md
           - Oversight: how-to/admin/oversight.md
+          - Build a Reports & Impact report: how-to/admin/reports-and-impact.md
   - Reference:
       - Glossary: reference/glossary.md
       - Roles & permissions matrix: reference/permissions-matrix.md

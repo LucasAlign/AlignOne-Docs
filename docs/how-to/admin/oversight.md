@@ -51,6 +51,7 @@ who did what.
 
 ## Related
 
+- [Build a Reports & Impact report](reports-and-impact.md)
 - [Manage volunteers & advocates](volunteers-and-advocates.md)
 - [Manage families & people](families-and-people.md)
 - [Roles & permissions matrix](../../reference/permissions-matrix.md)
