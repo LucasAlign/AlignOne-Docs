@@ -1,10 +1,7 @@
 ---
-status: needs-review
+status: ready
 primary: frontend
 ---
-
-<!-- @backend: confirm Reports & Impact is limited to Admins + Coordinators, and that a
-     Coordinator's figures are restricted to their own county (central admins see all counties). -->
 
 # Build a Reports & Impact report
 
@@ -20,14 +17,14 @@ primary: frontend
 1. From the top navigation, open **Reports & Impact**.
 2. The page opens with a set of **metric tiles** (counters like *Kids Served*, *Families Served*) and **charts** (like *Families Served Over Time*), all reflecting live data.
 
-Admins see figures across all counties; Coordinators see their own county.
+Admins see figures across every county. Coordinators start filtered to their own county and can switch to another county or *All Counties* from the filters.
 
 ## Filter the report
 
 A row of filters at the top controls every metric at once:
 
 1. **Date range** — choose *Last 30 days*, *Last 3 months*, *Last 6 months*, or *Year to date*.
-2. **County** — *All Counties* or a specific county. (Coordinators are fixed to their own county.)
+2. **County** — *All Counties* or a specific county. (Coordinators start on their own county.)
 3. **Church** — *All Churches* or a specific church.
 
 Every tile and chart updates to match.
