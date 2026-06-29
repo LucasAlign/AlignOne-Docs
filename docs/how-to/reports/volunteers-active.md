@@ -17,7 +17,7 @@ This tile counts your active volunteers. By default, a volunteer counts as "acti
 While in Customize mode, select the **gear (⚙)** on the panel to change what gets counted:
 
 - **Require onboarding complete** — on by default. This is what "active" means here: only volunteers who have finished onboarding are counted. Turn it off to count volunteers regardless of onboarding.
-- **Support type** — narrow the count to volunteers offering a particular kind of help, such as Meals.
+- **Support type** — narrow the count to volunteers offering a particular kind of help, such as Meals. The list of choices comes from your program's configured **Support Types**, so every support type you use is available here.
 - **Role** — narrow the count to a single volunteer role, either Lead or Support.
 
 ## Which filters affect it
