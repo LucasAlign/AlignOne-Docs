@@ -97,8 +97,6 @@ nav:
       - Report Metrics:
           - Kids Served: how-to/reports/kids-served.md
           - Families Served: how-to/reports/families-served.md
-          - Active Care Communities: how-to/reports/active-communities.md
-          - Paused Communities: how-to/reports/paused-communities.md
           - Volunteers Active: how-to/reports/volunteers-active.md
           - New Families: how-to/reports/new-families-month.md
           - Needs Fulfilled: how-to/reports/needs-count.md
