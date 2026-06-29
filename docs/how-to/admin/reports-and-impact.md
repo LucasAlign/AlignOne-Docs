@@ -27,7 +27,16 @@ A row of filters at the top controls every metric at once:
 2. **County** — *All Counties* or a specific county. (Coordinators start on their own county.)
 3. **Church** — *All Churches* or a specific church.
 
-Every tile and chart updates to match.
+**County** and **church** apply to every metric. Every tile and chart updates to match.
+
+### When the date range doesn't apply
+
+The **date range** applies only to metrics that count something that happened on a date — *New Families*, *Needs Fulfilled*, *Families Served Over Time*, and *Monthly Support Activity Totals*.
+
+Some metrics describe **how things stand right now** (for example *Families Served* and the status breakdowns) or count **people without a recorded date** (the volunteer metrics, and *Kids Served*). A date range can't be applied to those, so instead of quietly ignoring it, the metric shows a small **"Date range N/A"** badge in its corner. That's your cue that the number reflects current totals (filtered by county and church), not the selected time window.
+
+!!! note "Why current-status metrics ignore the date range"
+    We don't keep a history of when a family's status changed, so we can't say how many were "active" *during* a past period — only how many are active *now*. See [Statuses explained](../../reference/statuses.md).
 
 ## Customize your report
 

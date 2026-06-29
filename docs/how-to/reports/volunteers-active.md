@@ -23,7 +23,7 @@ While in Customize mode, select the **gear (⚙)** on the panel to change what g
 ## Which filters affect it
 
 - **County** and **Church** apply — they narrow the tile to the volunteers in that county or at that church.
-- **Date range does not apply.** Volunteer records don't carry the dates needed to narrow by time, so the tile always reflects your current volunteers.
+- **Date range does not apply.** Volunteer records don't carry the dates needed to narrow by time, so the tile always reflects your current volunteers. It shows a small **"Date range N/A"** badge to make this clear.
 
 ## Tips & notes
 

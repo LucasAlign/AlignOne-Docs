@@ -28,7 +28,7 @@ While in Customize mode, select the **gear (⚙)** on the panel to change what g
 ## Which filters affect it
 
 - **County** and **Church** apply — they narrow the tile to the families in that county or served by that church.
-- **Date range does not apply.** The tile reflects each family's current status, and the app doesn't keep a history of when a status changed, so there's no past window to count.
+- **Date range does not apply.** The tile reflects each family's current status, and the app doesn't keep a history of when a status changed, so there's no past window to count. The tile shows a small **"Date range N/A"** badge to make this clear.
 
 ## Related
 

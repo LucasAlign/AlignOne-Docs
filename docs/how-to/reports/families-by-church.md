@@ -20,7 +20,7 @@ While in Customize mode, select the gear (⚙) on the panel to adjust:
 
 ## Which filters affect it
 
-**County** and **Church** apply, so you can focus on a single county or a single church. **Date range does not apply** — this chart reflects each family's current serving church, and the app doesn't keep a history of when a family was assigned, so there's no past window to count.
+**County** and **Church** apply, so you can focus on a single county or a single church. **Date range does not apply** — this chart reflects each family's current serving church, and the app doesn't keep a history of when a family was assigned, so there's no past window to count. The chart shows a small **"Date range N/A"** badge to make this clear.
 
 ## Tips & notes
 

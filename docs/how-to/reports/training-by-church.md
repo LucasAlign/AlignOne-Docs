@@ -21,7 +21,7 @@ While in Customize mode, select the gear (⚙) on the panel to adjust:
 
 ## Which filters affect it
 
-**County** and **Church** apply, so you can focus on a single county or a single church. **Date range does not apply** — volunteer records don't carry the dates needed to narrow by time.
+**County** and **Church** apply, so you can focus on a single county or a single church. **Date range does not apply** — volunteer records don't carry the dates needed to narrow by time. The chart shows a small **"Date range N/A"** badge to make this clear.
 
 ## Tips & notes
 

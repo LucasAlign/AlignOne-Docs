@@ -21,7 +21,7 @@ You reach these via the gear (⚙) on the panel while in Customize mode.
 
 ## Which filters affect it
 
-**County** and **Church** apply and narrow which families are included in the breakdown. **Date range does not apply** — this chart reflects each family's current status, and the app doesn't keep a history of when a status changed, so there's no past window to count.
+**County** and **Church** apply and narrow which families are included in the breakdown. **Date range does not apply** — this chart reflects each family's current status, and the app doesn't keep a history of when a status changed, so there's no past window to count. The chart shows a small **"Date range N/A"** badge to make this clear.
 
 ## Tips & notes
 
