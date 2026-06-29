@@ -20,7 +20,7 @@ This tile counts families in your records. By default it counts **every** family
 While in Customize mode, select the **gear (⚙)** on the panel to change what gets counted:
 
 - **Label** — give the tile your own name (for example, "Active Care Communities"). Leave it blank to let the tile name itself from the statuses you pick.
-- **Statuses counted** — tick one or more family statuses to count. **Leave them all unticked to count every family.** Ticking, say, *Active* and *Launched* makes an "active communities" tile; ticking *Paused* makes a "paused" tile.
+- **Statuses counted** — tick one or more family statuses to count. The list shows your program's configured family statuses. **Leave them all unticked to count every family.** Ticking the active statuses makes an "active communities" tile; ticking a paused status makes a "paused" tile.
 
 !!! tip "Add it several times"
     Because you can add this tile more than once, you can build a row of status counts — total served, active, paused, building, and so on — each its own tile.
