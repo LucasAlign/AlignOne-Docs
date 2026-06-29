@@ -94,6 +94,20 @@ nav:
           - Onboard a family & invite people: how-to/admin/onboarding.md
           - Oversight: how-to/admin/oversight.md
           - Build a Reports & Impact report: how-to/admin/reports-and-impact.md
+      - Report Metrics:
+          - Kids Served: how-to/reports/kids-served.md
+          - Families Served: how-to/reports/families-served.md
+          - Active Care Communities: how-to/reports/active-communities.md
+          - Paused Communities: how-to/reports/paused-communities.md
+          - Volunteers Active: how-to/reports/volunteers-active.md
+          - New Families: how-to/reports/new-families-month.md
+          - Needs Fulfilled: how-to/reports/needs-count.md
+          - Families Served Over Time: how-to/reports/families-over-time.md
+          - Families Served by County: how-to/reports/families-by-county.md
+          - Care Community Status: how-to/reports/care-community-status.md
+          - Families by Church: how-to/reports/families-by-church.md
+          - Training Completion by Church: how-to/reports/training-by-church.md
+          - Monthly Support Activity Totals: how-to/reports/monthly-activity.md
   - Reference:
       - Glossary: reference/glossary.md
       - Roles & permissions matrix: reference/permissions-matrix.md
