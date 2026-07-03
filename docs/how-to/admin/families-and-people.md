@@ -32,6 +32,9 @@ the **primary contact**.
 3. Set one parent as the **primary contact** — the main point of contact for the circle.
 4. **Save.** The family is created and ready for volunteers and a schedule.
 
+Parents added this way don't have a login yet — when the family is ready, [send them
+account setup emails](onboarding.md#send-account-setup-emails-to-a-familys-parents).
+
 ## Update a family
 
 1. Open the family from **Families**.
@@ -54,6 +57,9 @@ one.
    <!-- @frontend: confirm where import lives and the template download -->
 2. Fill in the template — including parents and children — and upload it.
 3. Review the result. Every import is recorded in the **audit log**.
+4. Imported parents can't sign in yet — open each family and
+   [send account setup emails](onboarding.md#send-account-setup-emails-to-a-familys-parents)
+   when you're ready to bring them into the portal.
 
 !!! warning "Never use real PII in examples or templates you share"
     Family information is sensitive. Keep filled-in import files secure and out of shared
