@@ -23,7 +23,7 @@ with.
 - **Churches** are how advocates are scoped: an advocate can see every family whose
   **serving church** is theirs. (A family's *serving* church — the one coordinating care —
   can differ from the church a family *attends*.)
-- **Counties** group families and volunteers geographically; coordinators manage by county.
+- **Counties** group churches, families, and volunteers geographically; coordinators manage by county.
 
 ## Manage churches
 
@@ -31,17 +31,20 @@ with.
 2. **Add** a church, or open an existing one to edit its details.
 3. Save. Advocates assigned to that church will see the families it serves.
 
+### Church Details
+A church is made up of the following details
+- Name
+- Address
+- Contact information
+- Contact Name
+
+When looking at a church's details, in addition to these details listed, you can see the families that are served by the church, as well as the number of active and inactive volunteers.
+
 ## Manage counties
 
 1. Open **Counties**.  <!-- @frontend: confirm the nav label and where county management lives -->
 2. Add or update a county as needed.
 3. Save.
-
-## Import churches in bulk
-
-1. Open the **import** tool and download the **church template**.
-   <!-- @frontend: confirm where import lives and the template download -->
-2. Fill it in and upload. Every import is recorded in the **audit log**.
 
 ## Related
 
