@@ -5,29 +5,34 @@ primary: frontend
 
 # View your family
 
-**Who this is for:** Volunteers (each volunteer supports one family).
+**Who this is for:** Lead Volunteers and Advocates (who have a **Families** directory).
+Support Volunteers don't have a separate family page — see the note below.
 **When to use it:** To see who you're supporting and how to reach them.
 **Before you start:** You've [accepted your invite and signed in](../account/accept-invite.md),
 and you're assigned to a family.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+!!! note "Support Volunteers: no separate family page"
+    If you're a **Support Volunteer**, there's no standalone family screen — you see your one
+    family's context directly through its [needs](../needs/browse-needs.md),
+    [schedule](../schedules/view-calendar.md), and [messages](../messaging/start-thread.md).
+    The steps below apply to **Lead Volunteers** and **Advocates**, who get a Families list.
+
+![The Families directory a Lead Volunteer / Advocate sees.](../../assets/screens/vol-families.png)
 
 ## Steps
 
-1. From the main menu, open your **family**.  <!-- @frontend: confirm the nav label (e.g. "My Family") and where it lives -->
-2. Review the family's information: the **parents** and **children**, who the
-   **primary contact** is, and any preferences or household notes the program has shared.
-   <!-- @frontend: confirm which family fields a volunteer can see -->
-3. From here you can jump to the family's [needs](../needs/browse-needs.md),
-   [schedule](../schedules/view-calendar.md), and [messages](../messaging/start-thread.md).
+1. From the main menu, open **Families**.
+2. The directory lists each family with its **Status**, **Serving Church**, **Primary
+   Contact**, **City**, and **Community Size**. Search or filter to find the one you want.
+3. Open a family to see its full profile, then jump to its
+   [needs](../needs/browse-needs.md), [schedule](../schedules/view-calendar.md), and
+   [messages](../messaging/start-thread.md).
 
 ## What you'll see
 
-A profile of the one family you support — the people in it and how care is coordinated
-around them. As a volunteer you see **only this family**; that's how AlignOne keeps every
-family's information private.
+A profile for each family in your scope — a **Lead Volunteer** sees their one family; an
+**Advocate** sees every family their church serves. You never see families outside your
+scope; that's how AlignOne keeps every family's information private.
 
 → [Roles & who sees what](../../concepts/roles-and-visibility.md)
 

@@ -14,37 +14,36 @@ primary: frontend
 with.
 **Before you start:** You're signed in with staff access.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![The Churches directory, as Central Admin.](../../assets/screens/admin-churches.png)
 
 ## Why churches and counties matter
 
 - **Churches** are how advocates are scoped: an advocate can see every family whose
   **serving church** is theirs. (A family's *serving* church — the one coordinating care —
   can differ from the church a family *attends*.)
-- **Counties** group churches, families, and volunteers geographically; coordinators manage by county.
+- **Counties** group families and volunteers geographically; coordinators manage by county.
 
 ## Manage churches
 
-1. Open **Churches**.  <!-- @frontend: confirm the nav label and where it lives -->
-2. **Add** a church, or open an existing one to edit its details.
+1. Open **Churches**.
+2. Choose **Add Church**, or open an existing one to edit its details.
 3. Save. Advocates assigned to that church will see the families it serves.
 
-### Church Details
-A church is made up of the following details
-- Name
-- Address
-- Contact information
-- Contact Name
+The directory shows each church's **county**, its **families**, and how many volunteers are
+**active** vs. **inactive**, with search and **All Counties** / **All Families** filters.
 
-When looking at a church's details, in addition to these details listed, you can see the families that are served by the church, as well as the number of active and inactive volunteers.
+## Counties
 
-## Manage counties
+Counties group families and volunteers geographically, and coordinators manage by county.
+There isn't a separate county-management screen — the county list is maintained centrally.
+Counties show up as a **filter** on the Churches, Families, and Volunteers directories and as
+a **County** field when you create a family, church, or user.
 
-1. Open **Counties**.  <!-- @frontend: confirm the nav label and where county management lives -->
-2. Add or update a county as needed.
-3. Save.
+## Export churches to CSV
+
+From the **Overview**, open the **Database** panel (the master list) and switch to the
+**Churches** tab, then **Export CSV**. Bulk *import* of churches is handled by staff during
+setup/migration and is recorded in the **audit log**.
 
 ## Related
 

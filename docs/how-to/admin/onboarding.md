@@ -14,9 +14,7 @@ primary: frontend
 support them.
 **Before you start:** You're signed in with staff access.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![The Invite New User form, opened from Volunteers/Advocates.](../../assets/screens/admin-create-user-modal.png)
 
 ## Onboard a family
 
@@ -31,51 +29,25 @@ support them.
 A family that **registers itself** doesn't go live automatically. It starts at
 **Care Requested / Needs Vetting** and waits for staff to review it.
 
-1. Open the family from the pending/vetting list.
-   <!-- @frontend: confirm where families awaiting vetting appear and the label -->
-2. Review the details, then **approve** the family to move it into active service.
+1. Open **Families**. A family awaiting review carries the **Care Requested / Needs Vetting**
+   status — use the **Status** filter to list them.
+2. Review the details, then **approve** the family (change its status) to move it into active
+   service.
    → [Statuses explained](../../reference/statuses.md)
-
-## Send account setup emails to a family's parents
-
-**Who can do this:** Admins, Coordinators, and Advocates (for families their church serves).
-
-When a family was **imported or created by staff**, its parents exist in AlignOne but have
-never signed in — they have no login yet. Use **Send Account Setup Emails** to create
-their accounts and email them everything they need to sign in.
-
-1. Open the family from **Families** and switch to the **Household** tab.
-2. Select **Send Account Setup Emails**.
-3. Review the confirmation: parents **with an email on file** are listed as recipients;
-   parents **without an email** are skipped. If someone is missing, close the dialog,
-   [add their email to the parent record](families-and-people.md), and try again.
-4. Confirm to send. Each parent receives an email with a **temporary password** and a
-   sign-in link. On their first sign-in, AlignOne asks them to set a permanent password.
-5. Check the per-parent results:
-    - **Email sent** — all set; the parent can sign in.
-    - **Already has an account** — nothing was sent; they can sign in as usual.
-    - **No email on file** — add an email to the parent record first.
-    - **Email failed** — the account **was** created, but the email couldn't be
-      delivered. Use **Copy Message** to copy a ready-to-send sign-in message (including
-      the temporary password) and email it to the parent yourself.
-
-!!! tip "Safe to press again"
-    Sending is skipped for any parent who already has an account, so re-running this for
-    a family never duplicates logins or resets existing passwords.
 
 ## Invite a person
 
-1. From **Volunteers**, choose **Invite** and enter the person's email and role.
-   → [Manage volunteers & advocates](volunteers-and-advocates.md)
+1. From **Volunteers/Advocates**, choose **Create New User** and fill in the person's name,
+   email, and role. → [Manage volunteers & advocates](volunteers-and-advocates.md)
 2. They get an email to [accept and set a password](../account/accept-invite.md).
 
 ## Resend an invite
 
 If someone didn't get their invite or it expired:
 
-1. Open the person's record.
-2. Choose **Resend invite**.  <!-- @frontend: confirm the resend control and label; confirm whether it reissues a fresh expiry -->
-3. A new invite email goes out.
+1. Open the person's record from **Volunteers/Advocates**.
+2. Choose **Resend Invite**.
+3. A new invite email goes out with a fresh link.
 
 !!! tip "Invites expire"
     Invite links are time-limited (typically 7 days). If someone waited too long, resend

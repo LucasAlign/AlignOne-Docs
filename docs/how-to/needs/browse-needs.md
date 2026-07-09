@@ -11,20 +11,18 @@ something to sign up for.
 **Before you start:** You've [accepted your invite and signed in](../account/accept-invite.md),
 and you're assigned to a family.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![The Needs Board, grouped into Open / Filled / Closed.](../../assets/screens/vol-needs.png)
 
 ## Steps
 
-1. From the main menu, open **Needs**.  <!-- @frontend: confirm this nav label and where it lives -->
+1. From the main menu, open **Needs**.
    You'll see your family's needs. As a volunteer, this is the **one family** you're
    assigned to — you won't see other families' needs.
-2. Look for needs marked **open** — the ones nobody has claimed yet.
-   <!-- @frontend: confirm how open vs. claimed/completed needs are labelled or filtered -->
-3. Each need shows its **type** — from the program's support categories (for example
-   **Meals, Transportation, Childcare, Companionship, Errands,** or **Home Maintenance**;
-   staff can adjust this list) — plus **when** it's needed and a short description.
+2. Needs are grouped into **Open** (nobody has claimed them yet), **Filled** (enough
+   volunteers have signed up), and **Closed**. Start with the **Open** group.
+3. Each need shows its **type** (such as a meal, a ride, supplies, an errand, yardwork, or
+   prayer), **when** it's needed, and a short description.
+   <!-- @backend: confirm the canonical need types/categories shown to volunteers -->
 4. Tap any need to open it and read the full details before deciding.
 
 ## What you'll see
@@ -32,9 +30,9 @@ and you're assigned to a family.
 A list of your family's needs, with the open ones clearly marked. From here you can pick
 one and [claim it](claim-a-need.md).
 
-!!! tip "Filter to what you can do"
-    If there are many needs, narrow the list to the type of help you're set up to offer.
-    <!-- @frontend: confirm whether filtering/sorting by type or date exists -->
+!!! tip "Grouped by status"
+    Needs are grouped by status — **Open**, **Filled**, and **Closed** — so the ones you
+    can still pick up are together at the top. (There's no filter by type or date yet.)
 
 ## Related
 

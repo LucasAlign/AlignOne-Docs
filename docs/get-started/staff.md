@@ -9,9 +9,7 @@ Welcome! As **program staff** (an Admin) you run AlignOne for your organization.
 **full access** — every family and all data — and you set up the people and families that
 everyone else works with.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![The Central Admin overview.](../assets/screens/admin-dashboard.png)
 
 ## What program staff do
 
@@ -31,8 +29,7 @@ whole program.
 1. **Sign in.** Use your invite, set a password, and sign in.
    → [Accept your invite & sign in](../how-to/account/accept-invite.md)
 2. **Add your families.** Create the family records — parents, children, and the primary
-   contact — that everything else is organized around. You can add them one at a time or
-   import a list.
+   contact — that everything else is organized around, one at a time with **New Family**.
    → [Manage families & people](../how-to/admin/families-and-people.md)
 3. **Set up your organizations.** Make sure the churches and counties you work with are in
    place.

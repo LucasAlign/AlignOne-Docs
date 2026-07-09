@@ -13,10 +13,7 @@ primary: frontend
 **When to use it:** When you want to sign up to take care of something your family needs — a meal, a ride, supplies, or a helping hand.
 **Before you start:** You've [accepted your invite and signed in](../account/accept-invite.md), and you're assigned to a family.
 
-!!! info "Screenshots coming"
-    This guide describes the steps in words for now; annotated screenshots land once the
-    screens are final. If a button name here doesn't match what you see, go by what's on
-    screen and let us know.
+![Each open need has an "I can help" button.](../../assets/screens/vol-needs.png)
 
 ## What is a "need"?
 
@@ -27,19 +24,19 @@ can then see it's covered and pick up something else.
 
 ## Steps
 
-1. From the main menu, open **Needs**.  <!-- @frontend: confirm this nav label and where it lives -->
+1. From the main menu, open **Needs**.
    You'll see your family's open needs — the ones nobody has claimed yet.
-2. Tap a need to open it and read the details: **what's needed**, **when**, **where**,
-   and any notes from the family or advocate.
+2. Read a need's details: **what's needed**, **when**, and any notes from the family or advocate.
 3. Make sure you can commit to it. If anything's unclear, use
    [the message thread](../messaging/start-thread.md) to ask before you claim.
-4. Tap **Claim**.  <!-- @frontend: confirm the button label + confirm-dialog copy; add screenshot -->
-5. Confirm. The need now shows **your name** as the person handling it.
+4. On the need's card, tap **I can help**. It claims the need right away — there's no extra
+   confirmation step — and the button briefly shows **Claiming…**.
+5. The need now lists **your name** under **Filled by**.
 
 ## What you'll see
 
-- The need moves out of the "open" list and shows as **claimed by you**.
-- It appears in your own list of commitments so you can find it again.
+- The need moves from **Open** toward **Filled**, showing **Filled by _your name_**.
+- It appears among your **commitments** on the [Schedule](../schedules/view-calendar.md) so you can find it again.
 - The family and your team can see it's covered — no one else needs to pick it up.
 
 !!! tip "You're not locked in"

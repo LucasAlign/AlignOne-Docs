@@ -14,44 +14,45 @@ primary: frontend
 and what's changed.
 **Before you start:** You're signed in with staff access.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![Reports & Impact, with a county filter and CSV/PDF export.](../../assets/screens/admin-reports.png)
 
-## Needs & claims overview
+## Needs coverage
 
-See, across families, which needs are **open**, **claimed**, and **complete** so you can
-spot gaps where a family isn't getting covered.
-
-1. Open the needs/claims overview.  <!-- @frontend: confirm where a program-wide needs overview lives and its label -->
-2. Look for **open** needs sitting unclaimed and follow up with advocates or volunteers.
+Admins and Coordinators don't have a needs board of their own — needs live with each family
+and are worked by advocates and volunteers. To watch coverage across the program, use
+**Reports & Impact**, which surfaces figures like **Needs Fulfilled** alongside families and
+volunteers served.
 
 ## Training matrix
 
 See who has completed which training modules at a glance.
 
-1. Open the **training** view and switch to the **progress matrix**.
-   <!-- @frontend: confirm the matrix label and where it lives -->
+1. Open **Training Management** and stay on the **Volunteers** tab to see the
+   **Volunteer Progress** matrix.
 2. Find people who are **trained but not yet active** and
    [activate them](volunteers-and-advocates.md#activate-a-trained-volunteer).
 
+![The Volunteer Progress matrix under Training Management.](../../assets/screens/admin-training-management.png)
+
 ## County analytics
 
-Coordinators and admins can review **county-level** numbers to understand reach and load
-by county. <!-- @frontend: confirm where county analytics appears and its label -->
+Coordinators and admins can review **county-level** numbers to understand reach and load by
+county. Open **Reports & Impact** and use the **County** filter to focus on one county; you
+can **Export CSV** or **Export PDF** for sharing.
 
 ## Audit log
 
 Every import and key change is recorded in the **audit log**, so there's always a record of
 who did what.
 
-1. Open the **audit log**.  <!-- @frontend: confirm where the audit log lives and its label -->
-2. Review entries to confirm an import landed or to trace a change. The audit log is
-   available to Admins and Coordinators only.
+1. Open **Admin Management** and choose the **Audit Log** tab.
+2. Search by name, action, or details (or filter by date) to confirm an import landed or to
+   trace a change. The audit log is available to Admins and Coordinators only.
+
+![The audit log, under Admin Management.](../../assets/screens/admin-audit-log.png)
 
 ## Related
 
-- [Build a Reports & Impact report](reports-and-impact.md)
 - [Manage volunteers & advocates](volunteers-and-advocates.md)
 - [Manage families & people](families-and-people.md)
 - [Roles & permissions matrix](../../reference/permissions-matrix.md)

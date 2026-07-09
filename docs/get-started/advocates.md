@@ -9,9 +9,7 @@ Welcome! As an **advocate** you're the case lead for the families your **church*
 You coordinate care across those families — a wider view than a volunteer's single family,
 but scoped to your church rather than the whole program.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![Your advocate dashboard after signing in.](../assets/screens/adv-dashboard.png)
 
 ## What an advocate does
 

@@ -8,10 +8,7 @@ primary: frontend
 Welcome! As a **volunteer** you support **one family** — your part of their WrapAround
 care circle. This page walks you through your first day on AlignOne, start to finish.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final. If a button name here doesn't match what you see, go by what's on screen and
-    let us know.
+![Your volunteer dashboard after signing in.](../assets/screens/vol-dashboard.png)
 
 ## What a volunteer does
 
@@ -36,7 +33,7 @@ family**; that's by design, to keep every family's information private.
 5. **Claim your first need.** Browse what the family needs help with and sign up for one.
    → [Browse open needs](../how-to/needs/browse-needs.md) ·
    [Claim a need](../how-to/needs/claim-a-need.md)
-6. **Check the schedule.** See what's coming up and sign up for a slot.
+6. **Check the schedule.** See what's coming up and the commitments you've taken on.
    → [View the calendar](../how-to/schedules/view-calendar.md)
 7. **Say hello.** Introduce yourself to the circle in messages.
    → [Start a thread](../how-to/messaging/start-thread.md)

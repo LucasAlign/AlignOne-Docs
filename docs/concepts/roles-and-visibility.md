@@ -9,16 +9,16 @@ AlignOne is built around one rule: **you only see the families you're responsibl
 Your role decides how wide that reach is. This is enforced by the server on every
 request — it isn't just hidden in the interface.
 
-<!-- @frontend: confirm these role names match exactly what the app shows users. -->
+The names below are the labels shown on your role badge in the app.
 
 ## The roles
 
 | Role | Sees | What they typically do |
 |---|---|---|
-| **Program staff (Admin)** | **Every** family and all data | Set up and manage everything; full access |
-| **Coordinator** | **Every** family (same access as Admin) | Admin-level access, focused on managing their county |
-| **Advocate** | Every family served by **their church** | Coordinate care across their church's families |
-| **Volunteer** | **One** family — the one they're assigned to | Claim needs, sign up for the schedule, message the team |
+| **Central Admin** (program staff) | **Every** family and all data | Set up and manage everything; full access |
+| **Coordinator Admin** | **Every** family (same access as Central Admin) | Admin-level access, focused on managing their county |
+| **Church Advocate** | Every family served by **their church** | Coordinate care across their church's families |
+| **Support Volunteer** | **One** family — the one they're assigned to | Claim needs, keep an eye on the schedule, message the team |
 | **Family** | **Their own** family only | Self-registered parents managing their own circle |
 
 ## How your scope is decided
@@ -28,9 +28,7 @@ request — it isn't just hidden in the interface.
   church* is theirs. An advocate isn't tied to a single family.
 - **Volunteers** are scoped to the **one family** they're assigned to. A volunteer cannot
   see another family's needs, schedule, messages, or posts.
-- **Families** (self-registered parents) get a **read-only** view of **their own family's
-  circle** — they can see their family, its needs, and its schedule, but care tasks are
-  created and claimed by volunteers, advocates, and staff.
+- **Families** (self-registered parents) are scoped to **their own family record** only.
 
 > **Lead Volunteer.** A volunteer can be marked as the **Lead Volunteer** for their family.
 > Leads get extra abilities *within that one family* — such as creating or removing needs —

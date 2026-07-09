@@ -10,15 +10,14 @@ primary: frontend
 watch.
 **Before you start:** You can open your [training modules](modules-and-progress.md).
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![The Training page, where module resources live.](../../assets/screens/vol-training.png)
 
 ## Steps
 
 1. Open **Training** and select a module.
-2. Open the module's **resources** — the supporting materials attached to it (such as a
-   video or a document).  <!-- @frontend: confirm where resources appear and what types are supported -->
+2. Each module lists its **resources** — the supporting materials attached to it. A resource
+   can be a **video**, an **article**, a **link**, or a **PDF**. A standalone **Resources
+   Library** also appears on the Training page for materials not tied to a single module.
 3. Read or watch each resource, then return to the module to
    [mark it complete](modules-and-progress.md).
 

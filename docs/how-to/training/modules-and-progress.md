@@ -13,16 +13,13 @@ primary: frontend
 you serve.
 **Before you start:** You've [accepted your invite and signed in](../account/accept-invite.md).
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![Your training modules with a progress bar and per-module status.](../../assets/screens/vol-training.png)
 
 ## Steps
 
-1. From the main menu, open **Training**.  <!-- @frontend: confirm the nav label and where it lives -->
+1. From the main menu, open **Training**.
    You'll see your **modules** and your progress on each.
-2. Open a module to work through it, then **mark it complete** when you're done.
-   <!-- @frontend: confirm the mark-complete control and label per module -->
+2. Open a module to work through it, then tap **Mark Complete** when you're done.
 3. Repeat until every assigned module shows as complete. Your progress updates as you go.
 
 ## What happens when you finish
