@@ -15,15 +15,15 @@ or update their role or status.
 **Before you start:** You're signed in with staff access, and the family you'll assign to
 exists.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![The Volunteers & Advocates directory, with an In Training section.](../../assets/screens/admin-volunteers.png)
 
 ## Invite a volunteer or advocate
 
-1. Open **Volunteers** and choose **Invite**.  <!-- @frontend: confirm the nav label and invite control -->
-2. Enter the person's **email** and the **role** they'll have.
-3. Send the invite. They receive an email to
+1. Open **Volunteers/Advocates** and choose **Create New User** to open the **Invite New
+   User** form.
+2. Enter their **Full Name**, **Email**, and the **Role** they'll have (optionally a church,
+   county, or family too).
+3. Choose **Create User**. They receive an email to
    [accept and set a password](../account/accept-invite.md). Invites expire (typically
    after 7 days).
 
@@ -32,8 +32,8 @@ exists.
 A volunteer can see **only the family they're assigned to** — so the assignment is what
 gives them access.
 
-1. Open the volunteer's profile.
-2. **Assign** them to a family.  <!-- @frontend: confirm the assign control and whether it's one family at a time -->
+1. Open the volunteer's record.
+2. Set the **Family** field to the one family they'll support — it's **one family at a time**.
 3. Save. They can now see that family's needs, schedule, and messages — and nothing else.
 
 ## Set roles & statuses
@@ -51,9 +51,8 @@ gives them access.
 When someone finishes their training they become **trained but not yet active**. To let
 them start serving:
 
-1. Open the **awaiting activation** list (trainees who finished training).
-   <!-- @frontend: confirm where this list lives (Volunteers page section?) and its label -->
-2. Open the person and **activate** them.
+1. On the **Volunteers/Advocates** page, expand the **In Training** section to find trainees.
+2. Open someone who has finished training and **activate** them.
 3. Assign them to a family if you haven't already.
 
 ## Related

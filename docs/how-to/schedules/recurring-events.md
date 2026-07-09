@@ -10,9 +10,7 @@ primary: frontend
 signing up for.
 **Before you start:** You can [view the calendar](view-calendar.md) for your family.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![Recurring items repeat on the schedule (e.g. "Weekly Wednesday dinner").](../../assets/screens/vol-schedule.png)
 
 ## What a recurring event is
 
@@ -22,11 +20,11 @@ weekly ride appears every week without anyone re-entering it.
 
 ## What to check before you sign up
 
-1. Open the event and look at **how often it repeats** and **for how long**.
-   <!-- @frontend: confirm where the recurrence rule is shown to a volunteer -->
-2. Decide whether you're committing to **one occurrence** or the **whole series**.
-   <!-- @frontend: confirm whether sign-up is per-occurrence or per-series -->
-3. If you can only do some dates, sign up for just those and leave the rest open.
+1. A repeating need shows a **recurrence badge** (the rule's name, such as *Weekly*) on its
+   card, so you can tell it's part of a series.
+2. You claim **one occurrence at a time** — each date is its own need, so signing up for
+   this week's ride doesn't commit you to every week.
+3. If you can only do some dates, claim just those and leave the rest open.
 
 ## What you'll see
 

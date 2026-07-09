@@ -10,24 +10,21 @@ primary: frontend
 **Before you start:** You've [accepted your invite and signed in](../account/accept-invite.md),
 and you're assigned to a family.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![The Schedule: an Upcoming list and a month calendar.](../../assets/screens/vol-schedule.png)
 
 ## Steps
 
-1. From the main menu, open **Schedule**.  <!-- @frontend: confirm the nav label and where it lives -->
-   You'll see your family's calendar, usually a **week at a time**.
-   <!-- @frontend: confirm default view (week?) and how to change weeks/months -->
-2. Each entry shows an **event or slot** — what it is, the day and time, and whether
-   someone has signed up for it.
-3. Move between weeks to look ahead, and tap any entry to see its full details.
-   <!-- @frontend: confirm the controls for moving between weeks -->
+1. From the main menu, open **Schedule**.
+   You'll see your family's calendar as a **month grid**, with an **Upcoming** list beside it.
+2. Each entry shows a scheduled **event** or one of your **commitments** (a need you've
+   claimed) — what it is, the day, and the time.
+3. Use the **‹ ›** arrows next to the month name to move between months, and tap a day to
+   see its entries.
 
 ## What you'll see
 
-Your family's upcoming events and the slots that still need someone. From here you can
-[sign up for a slot](sign-up-slot.md) you can cover.
+Your family's upcoming events and your own commitments. The Schedule is view-only — to
+take on something new, [claim a need](../needs/browse-needs.md) on the Needs board.
 
 !!! tip "Recurring events"
     Some entries repeat — a weekly ride, for example. See

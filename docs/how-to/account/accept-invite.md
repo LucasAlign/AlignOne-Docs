@@ -10,9 +10,7 @@ primary: frontend
 **Before you start:** An invite email sent to your address. Invite links expire (typically
 after 7 days), so use yours promptly.
 
-!!! info "Screenshots coming"
-    These steps are described in words for now; annotated screenshots land once the screens
-    are final.
+![The WrapAround sign-in screen.](../../assets/screens/cognito-login.png)
 
 ## Steps
 
@@ -21,8 +19,8 @@ after 7 days), so use yours promptly.
 2. The link opens AlignOne and asks you to **set a password**. Choose a password and
    confirm it.  <!-- @frontend: confirm the registration screen heading + password rules -->
 3. Submit to create your account. AlignOne signs you in and finishes setting you up.
-4. After this, sign in any time from the home page with **Sign in** and your
-   email and password.  <!-- @frontend: confirm the sign-in button label -->
+4. After this, sign in any time: from the home page choose **Sign in**, then enter your
+   **email address** and **password** on the WrapAround sign-in screen and choose **Sign in**.
 
 ## What you'll see
 
