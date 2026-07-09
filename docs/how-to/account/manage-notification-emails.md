@@ -14,15 +14,30 @@ new need is posted, a volunteer finishes onboarding, a family's status changes. 
 control which of these emails you receive from your account settings. Turning one off
 stops **only** that email; everything else keeps arriving.
 
-## Steps
+## Open your Profile Settings
 
-1. In the left sidebar (or the bottom bar on your phone), select **Settings**. This opens
-   your **Profile Settings** screen.
-2. Scroll to the **Notifications** card.
-3. Use the **toggle** next to each notification type to turn its email **on** (green) or
-   **off** (grey).
-4. Select **Save Changes** to apply them. The button stays greyed out until you've
-   actually changed something, so if it's inactive you have nothing left to save.
+Everyone manages notifications from the same **Profile Settings** screen, but how you get
+there depends on your role.
+
+### Volunteers, advocates, and families
+
+- **On a computer:** move your pointer over the **left sidebar** to expand it, then select
+  **your name and profile picture** at the bottom of the sidebar.
+- **On a phone:** tap your **profile picture** in the top-right corner.
+
+### Coordinators and administrators
+
+- In the **top navigation bar**, select **Settings** (the gear icon).
+- Or, from any screen, select your **profile picture** in the top-right corner.
+
+Either way, you land on **Profile Settings**. Scroll down to the **Notifications** card.
+
+## Turn notification emails on or off
+
+1. In the **Notifications** card, use the **toggle** next to each notification type to turn
+   its email **on** (green) or **off** (grey).
+2. Select **Save Changes** to apply them. The button stays greyed out until you've actually
+   changed something, so if it's inactive you have nothing left to save.
 
 ![The Notifications card on the Profile Settings screen, showing a labeled on/off toggle and short description for each notification type, with a Save Changes button below.](img/notifications-advocate.png)
 
