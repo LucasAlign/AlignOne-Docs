@@ -24,10 +24,9 @@ support them.
 4. At this point it is also possible to assign volunteers
 5. You will not be able to **Activate** or change a families status from **Care Requested / Needs Vetting** status, until one parent or care giver signs into the wraparound application and signs the family agreement. <!-- Need a page about signing a family agreement -->
 
-### Approving a self-registered family
+### Activating a family.
 
-A family that **registers itself** doesn't go live automatically. It starts at
-**Care Requested / Needs Vetting** and waits for staff to review it.
+All families, regardless if an admin or coordinator does the onboarding, or a family self-registers, they do not go live automatically. They all start at **Care Requested / Needs Vetting** and require a parent or care-giver to sign in to Wraparound and sign a family agreement
 
 1. Open **Families**. A family awaiting review carries the **Care Requested / Needs Vetting**
    status — use the **Status** filter to list them.
