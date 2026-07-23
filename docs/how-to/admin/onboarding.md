@@ -18,11 +18,11 @@ support them.
 
 ## Onboard a family
 
-1. [Create the family record](families-and-people.md) — parents, children, and the
-   primary contact.
-2. Connect it to the right **county** and **serving church** so the correct advocate can
-   see it. → [Manage churches & counties](organizations.md)
-3. [Invite and assign volunteers](volunteers-and-advocates.md) to begin support.
+1. [Create the family record](families-and-people.md) — Complete family profile and information gathering.
+2. Make sure that the new family is configured it to the right **county** and **serving church**. **Serving Church** is important since this gives the serving church's advocate's access to see the family. → [Manage churches & counties](organizations.md)
+   - It is also possible to manually assign individual advocates to a family. This is for the edge case where a serving church doesn't have any fully trained advocates. In this case when the serving church does eventually have advocates, the newly trained advocates will automatically be able to see the family.
+4. At this point it is also possible to assign volunteers
+5. You will not be able to **Activate** or change a families status from **Care Requested / Needs Vetting** status, until one parent or care giver signs into the wraparound application and signs the family agreement. <!-- Need a page about signing a family agreement -->
 
 ### Approving a self-registered family
 
@@ -41,7 +41,7 @@ A family that **registers itself** doesn't go live automatically. It starts at
    email, and role. → [Manage volunteers & advocates](volunteers-and-advocates.md)
 2. They get an email to [accept and set a password](../account/accept-invite.md).
 
-## Resend an invite
+## Resend an invite <!-- Needs review -->
 
 If someone didn't get their invite or it expired:
 
